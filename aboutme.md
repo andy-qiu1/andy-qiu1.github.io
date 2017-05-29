@@ -12,4 +12,4 @@ What else do you need?
 
 ### My Resume
 
-[Resume](https://github.com/andy-qiu1/andy-qiu1.github.io/blob/master/resume%20newest.pdf)
+[Resume](andy-qiu1.github.io/resume newest.pdf)
