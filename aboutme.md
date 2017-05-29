@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Andy. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+- I love Mathematics and Philosophy
+- I am studying Mathematics and Computer Science at University of British Columbia 
 What else do you need?
 
-### my history
+### My Resume
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Resume](https://github.com/andy-qiu1/andy-qiu1.github.io/blob/master/resume%20newest.pdf)
