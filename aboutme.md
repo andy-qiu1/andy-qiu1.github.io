@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why do you want to know me?
 ---
 
 My name is Andy. I have the following qualities:
