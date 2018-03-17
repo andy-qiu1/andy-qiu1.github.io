@@ -13,3 +13,5 @@ What else do you need?
 ### My Resume
 
 [Resume](https://github.com/andy-qiu1/andy-qiu1.github.io/raw/master/resume.pdf)
+[Resume](https://github.com/andy-qiu1/andy-qiu1.github.io/raw/master/resume.pdf)
+[Resume](https://github.com/andy-qiu1/andy-qiu1.github.io/raw/master/resume.pdf)
