@@ -59,7 +59,6 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
   name: Andy Qiu
   email: "andyqiu1@gmail.com"
   facebook: https://www.facebook.com/andy.qiu.9212  # eg. daattali
@@ -119,7 +118,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
->>>>>>> daattali/master
 
 # Select which share links to show in posts
 share-links-active:
